@@ -4,3 +4,8 @@ This project demonstrates Git branching and branch comparison.
 
 Git is a distributed version control system.
 GitHub is a platform used to host Git repositories.
+
+Branch 2 Changes
+
+Branch 2 focuses on GitHub collaboration.
+It demonstrates comparing different branch contents.
