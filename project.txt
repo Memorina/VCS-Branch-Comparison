@@ -1,6 +1,1 @@
-VCS Branch Comparison Project
-
-This project demonstrates Git branching and branch comparison.
-
-Git is a distributed version control system.
-GitHub is a platform used to host Git repositories.
+ 
